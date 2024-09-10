@@ -21,30 +21,30 @@ Os dados utilizados neste projeto são retirados do Heart Disease Dataset, dispo
 
 
 
-Idade
+Idade;
 
-Sexo
+Sexo;
 
-Pressão arterial
+Pressão arterial;
 
-Colesterol
+Colesterol;
 
 Frequência cardíaca máxima, entre outras.
 
 
 
 
-Modelos Utilizados
+Modelos Utilizados:
 
-Regressão Logística
+Regressão Logística;
 
-Random Forest
+Random Forest;
 
-Redes Neurais
+Redes Neurais.
 
 
 
-Estrutura do Repositório
+Estrutura do Repositório:
 
 cardio_train.csv: Dados utilizados no projeto.
 
