@@ -1,21 +1,21 @@
-Predição de Doença Cardíaca com Modelos de Inteligência Artificial
+**Predição de Doença Cardíaca com Modelos de Inteligência Artificial**
 
 Este repositório contém o trabalho final da disciplina de Inteligência Artificial, que foca na predição de doenças cardíacas utilizando modelos de aprendizado de máquina baseados em dados clínicos de pacientes.
 
 
-Artigo
+**Artigo**
 
 O artigo completo descrevendo o projeto pode ser encontrado no arquivo Artigo.pdf. Ele aborda o desenvolvimento, avaliação e comparação dos modelos utilizados, bem como a análise dos resultados obtidos.
 
 
 
-Objetivo
+**Objetivo**
 
 O projeto busca prever a probabilidade de um paciente desenvolver doenças cardíacas com base em informações como idade, pressão arterial e níveis de colesterol, utilizando diferentes modelos de IA.
 
 
 
-Dataset
+**Dataset**
 
 Os dados utilizados neste projeto são retirados do Heart Disease Dataset, disponível publicamente no UCI Machine Learning Repository. As variáveis incluem:
 
@@ -34,7 +34,7 @@ Frequência cardíaca máxima, entre outras.
 
 
 
-Modelos Utilizados:
+**Modelos Utilizados:**
 
 Regressão Logística;
 
@@ -44,7 +44,7 @@ Redes Neurais.
 
 
 
-Estrutura do Repositório:
+**Estrutura do Repositório:**
 
 cardio_train.csv: Dados utilizados no projeto.
 
